@@ -1,8 +1,8 @@
 # Site
 title:          Actions speak louder than words
-bio:            'Just a simple Jekyll theme'
+bio:            '개인 기록 블로그'
 description:    "개인 기록 블로그"
-picture:        'assets/img/Logo.png'
+picture:        'assets/img/Bang-Honam_large.png'
 locale:         en_US
 url:            http://walkingtospace.github.com
 safe: true
