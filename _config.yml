@@ -1,7 +1,7 @@
 # Site
 title:          Actions speak louder than words
 bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+description:    "개인 기록 블로그"
 picture:        'assets/img/Logo.png'
 locale:         en_US
 url:            http://walkingtospace.github.com
