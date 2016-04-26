@@ -4,10 +4,12 @@ bio:            'Just a simple Jekyll theme'
 description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            http://taylantatli.me/Ramme
+url:            http://walkingtospace.github.com
+safe: true
+lsi: false
 
 # Jekyll
-permalink:      /:title/
+permalink:      pretty
 markdown:       kramdown
 highlighter:    rouge
 kramdown:
