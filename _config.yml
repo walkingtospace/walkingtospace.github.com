@@ -1,7 +1,7 @@
 # Site
-title:          Actions speak louder than words
-bio:            '개인 기록 블로그'
-description:    "개인 기록 블로그"
+title:          Honam Alex Bhang
+bio:            'IT & Start-up news'
+description:    "Developer"
 picture:        'assets/img/Bang-Honam_large.png'
 locale:         en_US
 url:            http://walkingtospace.github.com
@@ -25,8 +25,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+#twitter: username
+#facebook: username
 #google:
   #plus: #username
   #analytics:
@@ -35,17 +35,17 @@ facebook: username
   #ad-slot:
 #bing-verify:
 github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+#instagram: username
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
